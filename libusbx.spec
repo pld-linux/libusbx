@@ -12,7 +12,7 @@ License:	LGPL v2+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/libusbx/%{name}-%{version}.tar.bz2
 # Source0-md5:	99467ca2cb81c19c4a172de9f30e7576
-URL:		http://sourceforge.net/apps/mediawiki/libusbx/
+URL:		http://libusbx.org/
 BuildRequires:	doxygen
 BuildRequires:	glibc-devel >= 6:2.9
 %{?with_udev:BuildRequires:	udev-devel}
